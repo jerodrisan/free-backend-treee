@@ -1,0 +1,6 @@
+[submodule "5-boilerplate-project-filemetadata"]
+	path = 5-boilerplate-project-filemetadata
+	url = https://github.com/jerodrisan/freecodecam-filemetadata.git
+[submodule "4-boilerplate-project-exercisetracker"]
+	path = 4-boilerplate-project-exercisetracker
+	url = https://github.com/jerodrisan/freecodecamp-exercisetracker.git
